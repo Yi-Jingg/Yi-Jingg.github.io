@@ -1,6 +1,8 @@
 #### yijing.github.io
 
 ## Hobbies and Interests
+[Click here to view something](https://www.reddit.com/r/cats/comments/z1ki05/eepy/?rdt=34710)
+
 + Painting: Capturing Beauty on Canvas
     - Painting allows for the expression of emotions and ideas through vibrant colors and strokes. Whether it’s landscapes, abstract, or portraits, this hobby brings imagination to life.
 
@@ -20,5 +22,4 @@
     - Reading is an enriching hobby that opens the mind to new worlds, ideas, and characters. It promotes creativity, learning, and relaxation.
 
 
-[Click here to view something](https://www.reddit.com/r/cats/comments/z1ki05/eepy/?rdt=34710)
-
+![Bananacat](https://github.com/Yi-Jingg/Yi-Jingg.github.io/blob/main/bananaCat.jpg)
