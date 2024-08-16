@@ -22,5 +22,5 @@
     - Reading is an enriching hobby that opens the mind to new worlds, ideas, and characters. It promotes creativity, learning, and relaxation.
 
 
-![Bananacat]
+![Bananacat](https://github.com/Yi-Jingg/Yi-Jingg.github.io/blob/main/bananaCat.jpg)
 [Bananacat]: https://github.com/Yi-Jingg/Yi-Jingg.github.io/blob/main/bananaCat.jpg
